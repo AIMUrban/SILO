@@ -27,3 +27,11 @@ For efficient fine-tuning, we recommend using **LoRA for PyTorch**, which can be
               --lora ---verbose
    
 ### Citation
+```bibtex
+@article{todo,
+  title={SILO: Semantic Integration for Location Prediction with Large Language Models},
+  author={todo},
+  journal={Conference/Journal Name},
+  year={Year},
+  url={todo}
+}
