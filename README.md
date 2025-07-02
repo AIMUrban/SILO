@@ -1,5 +1,5 @@
 ## SILO
-This is the **PyTorch implementation** of **SILO: Semantic Integration for Location Prediction with Large Language Models**.
+This is the **PyTorch implementation** of [**SILO: Semantic Integration for Location Prediction with Large Language Models**](https://doi.org/10.1145/3711896.3737129).
 
 ### Datasets
 
