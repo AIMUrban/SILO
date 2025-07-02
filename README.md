@@ -28,10 +28,9 @@ For efficient fine-tuning, we recommend using **LoRA for PyTorch**, which can be
    
 ### Citation
 ```bibtex
-@article{todo,
+@inproceedings{sun2024silo,
   title={SILO: Semantic Integration for Location Prediction with Large Language Models},
-  author={todo},
-  journal={Conference/Journal Name},
-  year={Year},
-  url={todo}
+  author={Sun, Tianao and Chen, Meng and Zhang, Bowen and Dai, Genan and Huang, Weiming and Zhao, Kai},
+  booktitle={Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  year={2025}
 }
