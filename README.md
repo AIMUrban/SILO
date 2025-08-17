@@ -31,6 +31,7 @@ For efficient fine-tuning, we recommend using **LoRA for PyTorch**, which can be
 @inproceedings{sun2025silo,
   title={SILO: Semantic Integration for Location Prediction with Large Language Models},
   author={Sun, Tianao and Chen, Meng and Zhang, Bowen and Dai, Genan and Huang, Weiming and Zhao, Kai},
-  booktitle={Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2},
+  pages = {2756–2767},
   year={2025}
 }
